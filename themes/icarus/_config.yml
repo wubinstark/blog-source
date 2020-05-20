@@ -3,7 +3,7 @@ version: 3.0.0
 # Icarus theme variant, can be "default" or "cyberpunk"
 variant: default
 # Path or URL to the website's logo
-logo: /img/logo.svg
+logo: /img/logo.jpeg
 # Page metadata configurations
 head:
     # URL or path to the website's icon
@@ -73,16 +73,16 @@ head:
 navbar:
     # Naviagtion menu items
     menu:
-        Home: /
+        首页: /
         Archives: /archives
         Categories: /categories
         Tags: /tags
-        About: /about
+        关于我: /about
     # Links to be shown on the right of the navigation bar
     links:
         Download on GitHub:
             icon: fab fa-github
-            url: 'https://github.com/ppoffice/hexo-theme-icarus'
+            url: 'https://github.com/wubinstark'
 # Page footer configurations
 footer:
     # Links to be shown on the right of the footer section
